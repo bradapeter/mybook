@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](README.md)
+* [隐私条款](Privacy.md)
 

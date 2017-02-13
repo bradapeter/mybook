@@ -6,4 +6,5 @@
 * [Chapter 4 业务规则 - 配送](3.md)
 * [Chapter 5 业务规则 - 菜金](4.md)
 * [Chapter 6 商品及服务说明](chapter-6.md)
+* [Chapter 7 购物车](chapter-7.md)
 

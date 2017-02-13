@@ -8,4 +8,7 @@
 * [Chapter 6 商品及服务说明](chapter-6.md)
 * [Chapter 7 购物车](chapter-7.md)
 * [Chapter 8 种植](chapter-8.md)
+* [Chapter 9 付款与结算](chapter-9.md)
+* Chapter 10 库存管理
+* [Chapter 11 订单管理](chapter-11.md)
 

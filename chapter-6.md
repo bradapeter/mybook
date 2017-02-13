@@ -40,6 +40,9 @@ B.什么货品？ 什么是货号？
 * 详细介绍：详细介绍部分，您可以自由发挥 商品标签：您可以把这个理解为另一种筛选商品的方式，您可以自由灵活的定义。 
 * 相关商品：仔这个商品匹配哪些相关商品，往往会起到意想不到的促销效果
 
+#### 虚拟商品
+Your shop may feature (partly or exclusively) virtual products – that is, products that are not shipped, but rather downloaded: entertainment tickets, e-books/PDF files, real-life services...
+
 
 #### 捆绑商品（组合、套餐）
 

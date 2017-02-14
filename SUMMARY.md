@@ -3,7 +3,8 @@
 ## YKD 用户需求规格说明（URS）
 
 * [0-文档控制](0-.md)
-* [Chapter 1 引言](README.md)
+* [第 1章  引言](README.md)
+* [第2章 概述](ch2.md)
 * [功能规划 ](features.md)
   * [Chapter 3 业务规则 - 退换货](2.md)
   * [Chapter 4 业务规则 - 配送](3.md)
@@ -17,7 +18,8 @@
   * [Chapter 12 促销](chapter-12.md)
   * Chapter 13 社交
   * Chapter 14 工单
-* C 非功能需求
+* [C 非功能需求](c.md)
+* [ch2](ch2.md)
 
 ## 政策及协议
 

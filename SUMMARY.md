@@ -21,5 +21,5 @@
 
 ## 政策及协议
 
-* [隐私条款](Privacy.md)
+* [隐私条款](policy\Privacy.md)
 

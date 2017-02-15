@@ -5,7 +5,7 @@
 * [0-文档控制](0-.md)
 * [第1章  引言](README.md)
 * [第2章 概述](ch2.md)
-* [功能规划 ](features.md)
+* [第3章 系统功能需求规划 ](features.md)
   * [Chapter 3 业务规则 - 退换货](2.md)
   * [Chapter 4 业务规则 - 配送](3.md)
   * [Chapter 5 业务规则 - 菜金](4.md)

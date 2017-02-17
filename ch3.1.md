@@ -9,10 +9,11 @@
 货品与商品不相同，货品是一个库存单位，例：如“iPhone 6s”是一个商品，但红色的“iPhone 6s 32G 灰色 全网通”是一个货品，黑色的是另一个货品。货号是货品的唯一编号，可用于仓库管理。
 
 虚拟商品
-虚拟商品区别于实物商品，不在存物流配送服务，一般而言可以透过互联网进行获取，如：演唱会电子门票，电子折扣券（代金券）、电子书/PDF文件、MP3文件、现实生活的服务。
-Your shop may feature (partly or exclusively) virtual products – that is, products that are not shipped, but rather downloaded: entertainment tickets, e-books/PDF files, real-life services...
+虚拟商品区别于实物商品，不在存物流配送服务，一般而言虚拟商品可以透过互联网进行获取，如：演唱会电子门票，电子折扣券（代金券）、电子书/PDF文件、MP3文件、现实生活中的服务。
 
 捆绑商品（组合、套餐）
+
+
 
 
 ** 本商品内容目前仅针对个人客户做需求分析，企业团体客户在下一版本里再行梳理。**

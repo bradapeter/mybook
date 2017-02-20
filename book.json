@@ -10,8 +10,7 @@
             "Home" : "http://www.51ykd.com"
         }
     },
-   "plugins": [
-    ],
+   "plugins": ["mermaid-gb3"],
     "pluginsConfig": {        
     }
 }

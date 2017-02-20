@@ -4,7 +4,7 @@
     "author" : "姚海生",
     "generator": "site",
     "language" : "zh-hans",
-    "gitbook" : "2.3.",
+    "gitbook" : ">=2.3.0",
     "links" : {
         "sidebar" : {
             "Home" : "http://www.51ykd.com"

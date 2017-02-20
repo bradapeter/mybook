@@ -1,7 +1,8 @@
 {
     "title": "一块地业务需求规格说明",
-    "description": "用 GitBook 制作的一块地公司业务需求规格说明",
+    "description": "一块地公司业务流程、功能需求规划",
     "isbn": "978-3-16-148410-0",
     "language": "zh-cn",
-    "direction": "ltr"
+    "direction": "ltr"，
+    "plugins": ["mermaid"]
 }
